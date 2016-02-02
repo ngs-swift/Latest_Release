@@ -5,5 +5,6 @@
 
 <br />
 
-If you need ngs-swift AMI with full features, please send your request to xiao2@mail.nih.gov .
+<sub>If you need ngs-swift AMI with full features, please send your request to xiao2@mail.nih.gov</sub>.
+
 ************************************************************************************************
